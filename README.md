@@ -3,6 +3,11 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/0sy8rrxut4o0k960/branch/trunk?svg=true)](https://ci.appveyor.com/project/ruby/ruby/branch/trunk)
 [![Build Status](https://dev.azure.com/rubylang/ruby/_apis/build/status/ruby.ruby?branchName=trunk)](https://dev.azure.com/rubylang/ruby/_build/latest?definitionId=3&branchName=trunk)
 
+# WARNING
+This version of Ruby was created for testing purposes, this is NOT the OFFICIAL Ruby interpreter.
+It uses a different HashTable algorithm that may or may not perform better.
+USE AT YOUR OWN RISK.
+
 # What's Ruby
 
 Ruby is an interpreted object-oriented programming language often
